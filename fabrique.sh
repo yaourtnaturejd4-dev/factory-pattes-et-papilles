@@ -62,7 +62,7 @@ etape() {
     designer)   run_agent designer agents/designer.md ;;
     relecteur)  run_agent relecteur agents/relecteur.md ;;
     controleur) run_agent controleur agents/controleur.md ;;
-    conformite) run_agent veille-et-conformite agents/veille-et-conformite.md ;;
+    juriste)    run_agent juriste agents/juriste.md ;;
     bilan)      run_agent chef-de-projet agents/chef-de-projet.md "Ta mission du jour : la mission de clôture (étape bilan)." ;;
     *) echo "Étape inconnue : $1"; exit 1 ;;
   esac
