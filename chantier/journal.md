@@ -1,0 +1,1 @@
+2026-11-05 11:15 | chef-de-projet | Rédaction du plan de lancement dans chantier/plan.md (cadrage des livrables, affectation des agents, critères de validation et arbitrages humains) | Rien d'inachevé sur cette étape de cadrage.
