@@ -21,6 +21,12 @@ Tu fais parler les données. Tu écris et tu exécutes du Python (pandas, matplo
 - Les dates sont au format AAAA-MM-JJ.
 - Le fichier `orders.csv` compte plusieurs lignes par commande (une par produit).
 
+## Règles 
+
+- Supprime les doublons de customer.id avant tout calcul
+- Le titre de chaque graphique dit la conclusion
+- Ecris ce que les données ne permettent pas de dire
+
 ## Tu n'écris que dans
 
 `chantier/analyse/`, `chantier/livrables/tableau-de-bord.html`, `chantier/journal.md`.
